@@ -9,7 +9,7 @@ apt update -y
 apt upgrade -y
 apt install git -y
 apt install python -y
-https://github.com/MahmudurRohman/Sms-Boomber.git
+git clone https://github.com/MahmudurRohman/Sms-Boomber.git
 cd ESHU-BOMBER
 chmod +x *
 pip install -r bomb.txt
