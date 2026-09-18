@@ -1,9 +1,5 @@
-# Work
-![Logo](LOGO/Tool.png)
-
 ## Developer By
-![Logo](LOGO/Logo.jpeg)
-
+https://t.me/eshu_Tech
 ## Termux Download Frist
 https://t.me/Document_room/14
 ## use in termux
